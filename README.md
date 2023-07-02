@@ -6,7 +6,7 @@ https://dominikdanielewicz.github.io/goit-javascript-project-g4/
 
 ### Description
 
-In this group project I have participated in as a team leader and developer. The goal of the project was to create a
+In this group project I have participated in as a scrum master and developer. The goal of the project was to create a
 front-end app with the following functionalities:
 
 - fetching data from The Movie Database (TMDB) API https://developers.themoviedb.org/3/
@@ -15,15 +15,6 @@ front-end app with the following functionalities:
 - adding a movie to the WATCHED LIST/QUEUE
 - removing a movie from the WATCHED LIST/QUEUE
 - searching for a particular title
-
-### My contribution
-
-I was responsible for:
-
-- monitoring the technical implementation of the project
-- managing the project repository on github
-- creating the local storage for movies in the queue and displaying queued movies on the proper page
-- helping team members with their parts of the project
 
 ### Technologies
 
