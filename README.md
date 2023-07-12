@@ -2,7 +2,7 @@
 
 ### Live Demo
 
-https://dominikdanielewicz.github.io/goit-javascript-project-g4/
+https://dawidbartus.github.io/goit-javascript-project-g4/
 
 ### Description
 
